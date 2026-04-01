@@ -19,10 +19,12 @@ Matplotlib / Seaborn
 SHAP (Explainable AI)
 
 Models Implemented
+
 🔹 Random Forest
 Supervised learning model
 High accuracy for classification
 Handles feature importance effectively
+
 🔹 Autoencoder
 Unsupervised anomaly detection
 Learns normal behavior and detects deviations
